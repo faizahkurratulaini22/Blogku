@@ -23,4 +23,23 @@ Blogku adalah aplikasi web yang menggunakan Django untuk backend dan React untuk
    python manage.py migrate
    python manage.py runserver
 
+###Frontend (React)
+1. Pastikan Node.js dan npm telah terinstal. Unduh dari nodejs.org.
 
+2. Masuk ke direktori frontend React:
+
+```bash
+cd Blogku/tampilan
+
+3. Instal dependensi npm:
+
+```bash
+npm install
+
+4. Jalankan server pengembangan React:
+
+```bash
+npm run dev
+
+Lisensi
+Dibuat dengan ❤️ oleh Faizah Kurratulaini. Lihat file LISENSI untuk informasi lebih lanjut.
