@@ -15,14 +15,12 @@ Blogku adalah aplikasi web yang menggunakan Django untuk backend dan React untuk
 3. Clone repositori Blogku dari GitHub:
    ```bash
    git clone https://github.com/faizahkurratulaini22/Blogku.git
-   ```bash
    cd Blogku
 5. Lakukan migrasi awal untuk membangun struktur database:
    ```bash
    python manage.py makemigrations
-   ```bash
+
    python manage.py migrate
-   ```bash
    python manage.py runserver
 
 
